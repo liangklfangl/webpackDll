@@ -115,8 +115,8 @@ manifest (object): an object containing content and name
 
 SOURCE FILES：   
 
-![OPTIMIZING WEBPACK FOR FASTER REACT BUILDS](http://engineering.invisionapp.com/post/optimizing-webpack/)
+[OPTIMIZING WEBPACK FOR FASTER REACT BUILDS](http://engineering.invisionapp.com/post/optimizing-webpack/)
 
-![rimraf](https://github.com/liangklfang/rimraf)
+[rimraf](https://github.com/liangklfang/rimraf)
 
-![list-of-plugin](http://webpack.github.io/docs/list-of-plugins.html#dllplugin)
+[list-of-plugin](http://webpack.github.io/docs/list-of-plugins.html#dllplugin)
